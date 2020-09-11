@@ -10,7 +10,7 @@ Adventure Travel App
 
 YouTube : [Watch it on YouTube]()
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV115411b7ir/)
 
 ### UI 
 
