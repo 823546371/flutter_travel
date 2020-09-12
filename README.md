@@ -8,7 +8,7 @@ Adventure Travel App
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/qjCm9e8WJ8I)
 
 Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV115411b7ir/)
 
